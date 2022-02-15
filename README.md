@@ -1,3 +1,3 @@
 # Challenge Binar
-## Chapter 3
 ## Chapter 4
+### Fitur ditambahkan dalam permainan kertas gunting batu
